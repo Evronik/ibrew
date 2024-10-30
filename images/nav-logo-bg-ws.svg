@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="119px" viewBox="0 0 200 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>nav-logo-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iBrew-Landing" transform="translate(-190.000000, -963.000000)" fill="#F5F5F5">
+            <g id="nav-logo" transform="translate(190.000000, 963.000000)">
+                <path d="M100,119 C81.3467612,119 68.8403406,111.721961 57,104 C34,89 23.1373881,80.1290323 0,80 L0,0 L100,0 C100,0 100,106 100,119 Z M100,119 L100,0 L200,0 L200,80 C176.862612,80.1290323 166,89 143,104 C131.159659,111.721961 118.653239,119 100,119 Z" id="nav-logo-bg"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="490px" height="220px" viewBox="0 0 490 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>EW</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50.0000001%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFE26E" offset="0%"></stop>
+            <stop stop-color="#FFC03B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iBrew-Landing" transform="translate(-750.000000, -157.000000)" fill="url(#linearGradient-1)">
+            <path d="M1066,236 L1030,377 L970,377 L893,157 L960,157 L999,291 L1034,157 L1099,157 L1134,291 L1173,157 L1240,157 L1163,377 L1103,377 L1066,236 Z M750,377 L750,157 L882,157 L882,210 L812,210 L812,241 L875,241 L875,289 L812,289 L812,324 L882,324 L882,377 L750,377 Z" id="EW"></path>
+        </g>
+    </g>
+</svg>

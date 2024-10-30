@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="104px" viewBox="0 0 220 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>price</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFE26D" offset="0%"></stop>
+            <stop stop-color="#FFC03B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iBrew-Landing" transform="translate(-610.000000, -6292.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-56" transform="translate(610.000000, 6292.000000)">
+                <path d="M0,2.40572722 C0,1.07708076 1.07699519,0 2.40776821,0 L216.991139,0 C218.320913,0 219.398907,1.06501677 219.398907,2.40572722 L219.398907,79.4592272 C219.398907,80.7878736 218.348351,82.0769345 217.044159,82.3400932 L110.875555,103.762687 C110.226012,103.893752 109.173525,103.893879 108.523352,103.762687 L2.35474851,82.3400932 C1.05425682,82.0776813 0,80.7999376 0,79.4592272 L0,2.40572722 Z" id="price"></path>
+            </g>
+        </g>
+    </g>
+</svg>
