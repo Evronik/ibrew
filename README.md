@@ -3,7 +3,7 @@
 
 [![N|Solid](https://evronik.github.io/ibrew/ibrew.jpg)](https://evronik.github.io/ibrew/)
 
-Сайт: [https://evronik.github.io/ibrew/)
+Сайт: https://evronik.github.io/ibrew/
 
 ## Функции:
 
